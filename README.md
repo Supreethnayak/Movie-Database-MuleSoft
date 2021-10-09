@@ -24,7 +24,7 @@
 
 ### 4. Updating the name of the actress in the movie Forrest Gump as Bailee Madison.
 
-### Result: after apdating
+### Result: after updating
 ![5](https://user-images.githubusercontent.com/59947774/136647818-8c7f89b3-2a98-489b-83b5-5cf35d44f3d1.jpg)
 
 ### 5. Counting only distinct movies with respect to (YOR) Year of Release.
