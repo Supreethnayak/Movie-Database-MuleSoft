@@ -16,8 +16,6 @@ SELECT Movie_name,YOR FROM movie WHERE YOR = 2017 GROUP BY YOR;
 
 UPDATE movie SET Actress = "Bailee Madison" WHERE Movie_name ="Forrest Gump";
 
-SELECT DISTINCT YOR FROM movie;
-
 SELECT COUNT(DISTINCT YOR) FROM movie;
 
 SELECT Movie_name FROM movie WHERE Actor = 'Keanu Reeves';
