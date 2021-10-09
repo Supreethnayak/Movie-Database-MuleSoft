@@ -8,7 +8,7 @@ INSERT INTO `movie` (`Movie_name`, `Actor`, `Actress`, `YOR`, `Director`) VALUES
 INSERT INTO `movie` (`Movie_name`, `Actor`, `Actress`, `YOR`, `Director`) VALUES ('Interstellar', 'Matthew McConaughey', 'Anne Hathaway', 2019, 'Christopher Nolan');
 COMMIT;
 
-SELECT * FROM movies;
+SELECT * FROM movie;
 
 SELECT Movie_name, YOR FROM movie WHERE YOR BETWEEN 2015 AND 2018;
 
