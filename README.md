@@ -24,7 +24,7 @@
 
 ### 4. Updating the name of the actress in the movie Forrest Gump as Bailee Madison.
 
-### Result:
+### Result: after apdating
 ![5](https://user-images.githubusercontent.com/59947774/136647818-8c7f89b3-2a98-489b-83b5-5cf35d44f3d1.jpg)
 
 ### 5. Counting only distinct movies with respect to (YOR) Year of Release.
@@ -39,5 +39,5 @@
 
 ### 7. Deleting the row in the table where actor is Yash.
 
-### Result:
+### Result: after deleting
 ![8](https://user-images.githubusercontent.com/59947774/136647837-c8c72ea7-a2b0-4319-9e5c-fb97c08e0c39.jpg)
