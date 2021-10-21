@@ -12,7 +12,7 @@ SELECT * FROM movie;
 
 SELECT Movie_name, YOR FROM movie WHERE YOR BETWEEN 2015 AND 2018;
 
-SELECT Movie_name,YOR FROM movie WHERE YOR = 2017 GROUP BY YOR;
+SELECT Movie_name,YOR FROM movie GROUP BY YOR;
 
 UPDATE movie SET Actress = "Bailee Madison" WHERE Movie_name ="Forrest Gump";
 
